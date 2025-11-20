@@ -1,0 +1,27 @@
+real_estate_monitor/
+├── main.py
+├── config/
+│   ├── __init__.py
+│   ├── settings.py
+│   └── categories.yaml
+├── core/
+│   ├── __init__.py
+│   ├── database.py
+│   ├── file_manager.py
+│   └── backup_system.py
+├── scraper/
+│   ├── __init__.py
+│   ├── base_scraper.py
+│   ├── cian_parser.py
+│   └── avito_parser.py
+├── analytics/
+│   ├── __init__.py
+│   ├── analyzer.py
+│   └── visualizer.py
+├── utils/
+│   ├── __init__.py
+│   ├── logger.py
+│   └── helpers.py
+└── templates/
+    ├── report_template.md
+    └── project_structure.yaml

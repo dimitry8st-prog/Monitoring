@@ -1,0 +1,12 @@
+{
+  "timestamp": "2025-11-16T22:37:54.539720",
+  "directory": "data",
+  "files_moved": 0,
+  "details": [],
+  "errors": [
+    {
+      "file": "real_estate.db",
+      "error": "[WinError 32] Процесс не может получить доступ к файлу, так как этот файл занят другим процессом: 'data\\\\real_estate.db'"
+    }
+  ]
+}
